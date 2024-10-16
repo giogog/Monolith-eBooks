@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Gio\\Desktop\\Programming\\Portfolio\\eLibrary\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2DCC0F-3B13-4277-AC27-763240871CFF}|Infrastructure\\Infrastructure.csproj|c:\\users\\gio\\desktop\\programming\\portfolio\\elibrary\\infrastructure\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2DCC0F-3B13-4277-AC27-763240871CFF}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2DCC0F-3B13-4277-AC27-763240871CFF}|Infrastructure\\Infrastructure.csproj|c:\\users\\gio\\desktop\\programming\\portfolio\\elibrary\\infrastructure\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2DCC0F-3B13-4277-AC27-763240871CFF}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2DCC0F-3B13-4277-AC27-763240871CFF}|Infrastructure\\Infrastructure.csproj|c:\\users\\gio\\desktop\\programming\\portfolio\\elibrary\\infrastructure\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2DCC0F-3B13-4277-AC27-763240871CFF}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBAE4D7-74EF-4395-B9AF-0FDC834AA55A}|API\\API.csproj|c:\\users\\gio\\desktop\\programming\\portfolio\\elibrary\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EBAE4D7-74EF-4395-B9AF-0FDC834AA55A}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\Desktop\\Programming\\Portfolio\\eLibrary\\Infrastructure\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Gio\\Desktop\\Programming\\Portfolio\\eLibrary\\Infrastructure\\BaseRepository.cs",
+              "RelativeToolTip": "Infrastructure\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:10:00.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\Desktop\\Programming\\Portfolio\\eLibrary\\Infrastructure\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\Gio\\Desktop\\Programming\\Portfolio\\eLibrary\\Infrastructure\\DataSeeder.cs",
+              "RelativeToolTip": "Infrastructure\\DataSeeder.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:09:56.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\Desktop\\Programming\\Portfolio\\eLibrary\\Infrastructure\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\RepositoryManager.cs",
+              "ToolTip": "C:\\Users\\Gio\\Desktop\\Programming\\Portfolio\\eLibrary\\Infrastructure\\RepositoryManager.cs",
+              "RelativeToolTip": "Infrastructure\\RepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:09:53.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Gio\\Desktop\\Programming\\Portfolio\\eLibrary\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Gio\\Desktop\\Programming\\Portfolio\\eLibrary\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T18:09:38.116Z",
+              "EditorCaption": ""
             }
           ]
         }
