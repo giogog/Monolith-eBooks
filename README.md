@@ -1,4 +1,5 @@
-Online Book Store - Backend
+Online Book Store
+
 This project is a back-end application for an online book store, developed using ASP.NET Core Web API. It leverages multiple technologies including Entity Framework, Dapper, and CQRS with MediatR, and follows a clean architecture approach.
 
 Project Structure
